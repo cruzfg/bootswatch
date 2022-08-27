@@ -76,8 +76,8 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #2d65f9;
-  --bs-link-hover-color: #2451c7;
+  --bs-link-color: #fff;
+  --bs-link-hover-color: #cccccc;
   --bs-code-color: #e83e8c;
   --bs-highlight-bg: #fdebd0;
 }
